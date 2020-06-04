@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<ControlDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>3.0</Version>
+  <IncludeInControlInfo>false</IncludeInControlInfo>
+  <SupportFiles />
+  <RuntimeRender>ControlSessaoRender.js</RuntimeRender>
+  <GxResources />
+  <HeightPropertyName>Height</HeightPropertyName>
+  <WidthPropertyName>Width</WidthPropertyName>
+  <ResizeSupported>true</ResizeSupported>
+  <ObjClass>ControlSessao</ObjClass>
+  <Description>ControlSessao</Description>
+  <Id>00000000-0000-0000-0000-000000000000</Id>
+  <Name>ControlSessao</Name>
+  <ShowMethod>show</ShowMethod>
+  <ReferencedFiles />
+  <Constructor>
+    <Parameters />
+    <Name>ControlSessao</Name>
+  </Constructor>
+  <PropertiesDefinition>ControlSessaoProperties.xml</PropertiesDefinition>
+  <DesignRender>ControlSessaoRender.xsl</DesignRender>
+  <ToolboxIcon>Sessao.ico</ToolboxIcon>
+  <ControlType />
+  <Categories>
+    <Category>Knet App</Category>
+  </Categories>
+  <Events>
+    <Event>Click</Event>
+  </Events>
+  <Methods />
+  <Actions />
+  <IsPublic>true</IsPublic>
+</ControlDefinition>
